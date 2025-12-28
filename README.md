@@ -21,7 +21,7 @@ A robust command-line application designed to automate gym membership tracking, 
 1. Clone or download the source code.
 2. Open your terminal.
 3. Run the following command:
-   python gym_system.py
+   python gym_manager.py
 
 ## Author
 
